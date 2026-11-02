@@ -1,3 +1,4 @@
+API_KEY = "abc123-fake-key-98765"
 def add(a, b):
     return a + b
 
